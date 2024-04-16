@@ -1,1 +1,1 @@
-# olga-chum.degree.github.io
+# olga-chum.github.io
